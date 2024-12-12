@@ -8,20 +8,20 @@ Clients are able to filter, add and edit the blogs. Clients are able to view cor
 
 ## Features:
 
-1. **Pagination**
+1. **Pagination**<br>
     page loads correspond page of blogs by clicking on pagination button.
-2. **Add, Remove, Edit**
+2. **Add, Remove, Edit**<br>
     clients can add a new blog, remove the existing blog, or edit the existing blog. 
-3. **Filter**
+3. **Filter**<br>
     blogs can be filterd by entering search content, and always jump to the first page. 
-4. **Error Message**
+4. **Error Message**<br>
     the project has specific CSS and HTML to the error message. If server breaks or blog id is non-exist, the page loads the error message box. 
-5. **Blog Details**
+5. **Blog Details**<br>
     Clients are able to read more details to blog by clicking blox box. 
 
 ## Prerequisites
 
-- **Development Environment:** json-server version 0.17.4
+- **Development Environment:** json-server version 0.17.4<br>
     to download it, command on terminal: 
 ```
 npm uninstall -g json-server
