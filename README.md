@@ -22,7 +22,7 @@ Clients are able to filter, add and edit the blogs. Clients are able to view cor
 ## Prerequisites
 
 - **Development Environment:** json-server version 0.17.4
-to download it, command on terminal: 
+    to download it, command on terminal: 
 ```
 npm uninstall -g json-server
 npm install -g json-server@0.17.4
